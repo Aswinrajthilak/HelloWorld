@@ -1,2 +1,2 @@
-# HelloWorld - Making changes for Slack post - Another change
+# HelloWorld - Making changes for Slack post
 For learning purpose
